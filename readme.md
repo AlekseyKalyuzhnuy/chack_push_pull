@@ -1,3 +1,4 @@
-hello from my local computer
-https://github.com/GiliazovaPullrequests/VersionControl_Seminar3
-что-нибудь
+
+=======
+Hello
+>>>>>>> 6e408aa639d78828a86822b58d63922df58f2e72
